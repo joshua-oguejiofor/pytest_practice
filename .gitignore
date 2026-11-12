@@ -1,0 +1,6 @@
+.venv
+.pytest_cache
+pytest.db
+__pycache__
+.devdbrc
+testdb.db
